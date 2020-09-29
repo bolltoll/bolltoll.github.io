@@ -9,7 +9,7 @@
     <span>
     <img src="smc0406_portrait_productview.jpg" alt="brass">
     <img src="smc0201_portrait_productview.jpg" alt="string">
-    <img src="smc020o_portrait_productview.jpg" alt="woodwind">
+    <img src="smc0200_portrait_productview.jpg" alt="woodwind">
     </span>
   </body>
 </html>
