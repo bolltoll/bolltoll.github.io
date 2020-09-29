@@ -2,16 +2,7 @@
 <html lang="zh-cn">
   <head>
     <meta charset="utf-8">
-    <style>
-div {
-    background-color: lightgrey;
-    width: 300px;
-    border: 25px solid green;
-    padding: 25px;
-    margin: 25px;
-}
-</style>
-  </head>
+   </head>
   <body>
     <h1>Orcherta tools</h1>
     <p>Orchetral tools consist of the stringsm,woodwinds,brasses and percussions</p>
