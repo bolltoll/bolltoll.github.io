@@ -6,6 +6,7 @@
   <body>
     <h1>Orcherta tools</h1>
     <p>Orchetral tools consist of the stringsm,woodwinds,brasses and percussions</p>
-    
+    <img src="smc0406_portrait_productview.jpg" alt="brass">
+    <img src="smc0201_portrait_productview.jpg" alt="string">
   </body>
 </html>
