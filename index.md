@@ -11,5 +11,15 @@
     <img src="smc0201_portrait_productview.jpg" alt="string">
     <img src="smc0200_portrait_productview.jpg" alt="woodwind">
     </span>
+    <style>
+div {
+    background-color:rgb(44,55,66);
+    width: 300px;
+    border: 25px rgb(133,145,176);
+    padding: 25px;
+    margin: 25px;
+}
+</style>
+    <div>caught</div>
   </body>
 </html>
