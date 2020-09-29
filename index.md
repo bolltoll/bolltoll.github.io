@@ -2,7 +2,7 @@
 <html lang="zh-cn">
   <head>
     <meta charset="utf-8">
-    <title> orchestra</head>
+    <title> orchestra</title>
   </head>
   <body>
     <h1>Orcherta tools</h1>
