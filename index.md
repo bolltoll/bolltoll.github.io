@@ -9,13 +9,13 @@
     <span>
     <img src="smc0406_portrait_productview.jpg" alt="brass">
     <img src="smc0201_portrait_productview.jpg" alt="string">
-    <img src="smc0200_portrait_productview.jpg" alt="woodwind">
+    <img src="smc0202_portrait_productview.jpg" alt="woodwind">
     </span>
     <style>
 div {
-    background-color:rgb(44,55,66);
+    background-color: lightgrey;
     width: 300px;
-    border: 25px rgb(133,145,176);
+    border: 25px solid green;
     padding: 25px;
     margin: 25px;
 }
