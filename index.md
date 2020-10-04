@@ -17,7 +17,7 @@
     
     <div>
     
-    <iframe src="https://course.pku.edu.cn/" name="iframe_a">oo</iframe>
+    <iframe src="https://course.pku.edu.cn//" name="iframe_a">oo</iframe>
     </div>
     
     <p>Student name</p>
