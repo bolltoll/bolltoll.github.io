@@ -48,7 +48,11 @@
      <marquee>ヘ(￣ω￣ヘ）ヘ(￣ω￣ヘ)ヘ(￣ω￣ヘ)ヘ(￣ω￣ヘ）</marquee>
      <marquee>                                     </marquee>
      <marquee>弘扬      富强    民主     文明     和谐    </marquee>
+      <marquee><marquee><marquee>哇，光头</marquee></marquee></marquee>
+     
      <marquee>社会主义    自由    平等     公正     法治   </marquee>
+      <marquee>w(ﾟДﾟ)w<marquee>社会主义核心价值观</marquee>啊啊啊吖</marquee>
+     
      <marquee>核心价值观    爱国    敬业     诚信     友善 </marquee>
      <marquee>                                    </marquee>
      <marquee>ヘ(￣ω￣ヘ）ヘ(￣ω￣ヘ)ヘ(￣ω￣ヘ)ヘ(￣ω￣ヘ）</marquee>
