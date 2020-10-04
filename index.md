@@ -18,6 +18,8 @@
     <p>Student name</p>
     <p>BiYiLong</p>
     
+    <h2>Current Location</h2>
+    
     
     <input type="button" onclick="getLocation()" value="确认" />
     <div id="position"></div>
