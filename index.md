@@ -43,7 +43,7 @@
        
 <body>
     <h1>TRIAL</h1>
-    <p>This is a trial page2</p>
+    <center>This is a trial page2</center>
 	
      <marquee>丫丫丫丫丫丫丫丫丫丫丫丫丫丫丫丫丫丫丫丫</marquee>
      <marquee>个个个个个个个个个个个个个个个个个个个个</marquee>>
@@ -51,7 +51,9 @@
      <marquee>社会    自由    平等     公正     法治</marquee>
      <marquee>主义    爱国    敬业     诚信     友善</marquee>
      <marquee>核心    丫丫丫丫丫丫丫丫丫丫丫丫丫丫丫丫</marquee
-     <marquee>价值观  个个个个个个个个个个个个个个个个</marquee>>
+     <marquee>价值观  个个个个个个个个个个个个个个个个</marquee>
+     
+     <blink>闪耀！！！！</blink>
      
     
     <div class="rx">
@@ -84,9 +86,9 @@
    <h2>Pictures</h2>
    
      <span>
-    <div class="ex"><img src="smc0406_portrait_productview.jpg"></div>
-    <div class="ex"><img src="smc0200_portrait_productview.jpg"></div>
-    <div class="ex"><img src="smc0201_portrait_productview.jpg"></div>
+    <img src="smc0406_portrait_productview.jpg">
+    <img src="smc0200_portrait_productview.jpg">
+    <img src="smc0201_portrait_productview.jpg">
      </span>
     
     <marquee>
@@ -99,9 +101,9 @@
     跂石多时望。
     莲船始复归。</marquee>
   
-    <b>啊啊啊啊</b>
-    <p>啊啊啊啊</p>
-    <s>啊啊啊啊</S>
+    <b>啊啊啊啊啊啊啊啊啊啊啊</b>
+    <p>啊啊啊啊啊啊啊啊啊</p>
+    <s>啊啊啊啊啊啊啊</s>
   
       </body>
     </html>
