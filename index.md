@@ -74,11 +74,13 @@
     
    <h2>Pictures</h2>
    
+     <span>
     <div class="ex"><img src="smc0406_portrait_productview.jpg"></div>
-    <div class="ex"><img src="smc0202_portrait_productview.jpg"></div>
     <div class="ex"><img src="smc0200_portrait_productview.jpg"></div>
+    <div class="ex"><img src="smc0201_portrait_productview.jpg"></div>
+     </span>
     
-    <p>
+    <marquee>
     今朝好风日。
     园苑足芳菲。
     竹动蝉争散。
@@ -86,7 +88,7 @@
     面红新着酒。
     风晚细吹衣。
     跂石多时望。
-    莲船始复归。</p>
+    莲船始复归。</marquee>
   
   
   
