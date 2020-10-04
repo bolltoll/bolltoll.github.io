@@ -14,7 +14,7 @@
 	     
 	      div.rx
 	     {
-	     width:340px;
+	     width:300px;
 	     padding:10px;
 	     border:5px solid gray;
 	     margin:0px;
