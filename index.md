@@ -88,7 +88,8 @@
     }
     </script>
     
-    <font color="#4E2F2F">LOCATIONAL SCALES</font>
+    <font color="#4E2F2F">👆点击测位置<br>
+    LOCATIONAL SCALES</font>
     
    <h2>Pictures</h2>
    
