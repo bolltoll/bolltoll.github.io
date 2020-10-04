@@ -22,7 +22,7 @@
 	     
 	     body
 	     {
-	background-image:src="smc0406_portrait_productview.jpg";
+	background-image:smc0406_portrait_productview.jpg;
 	}
 	h1
 	{
@@ -49,8 +49,8 @@
     <iframe src="https://www.pku.edu.cn//" name="iframe_a">oo</iframe>
     </div>
     
-    <p>Student name</p>
-    <p>BiYiLong</p>
+    <p>Student name
+    BiYiLong</p>
     
   <h2>Current Location</h2>
     
