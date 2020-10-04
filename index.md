@@ -14,7 +14,7 @@
 	     
 	      div.rx
 	     {
-	     width:315px;
+	     width:328px;
 	     padding:10px;
 	     border:5px solid gray;
 	     margin:0px;
@@ -49,6 +49,7 @@
     <iframe src="https://www.pku.edu.cn//" name="iframe_a">oo</iframe>
     </div>
     
+   
     <p>Student name
     BiYiLong</p>
     
