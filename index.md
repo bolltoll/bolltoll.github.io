@@ -53,7 +53,7 @@
      <marquee>                                    </marquee>
      <marquee>ヘ(￣ω￣ヘ）ヘ(￣ω￣ヘ)ヘ(￣ω￣ヘ)ヘ(￣ω￣ヘ）</marquee>
      
-     <blink>闪耀！！！！</blink>
+     <kbd>  </Kbd>
      
     
     <div class="rx">
