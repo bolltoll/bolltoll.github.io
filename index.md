@@ -43,14 +43,14 @@
        
 <body>
     <h1>TRIAL</h1>
-    <center>This is a trial page2</center>
+    <center>This is a trial page</center>
 	
      <marquee>丫丫丫丫丫丫丫丫丫丫丫丫丫丫丫丫丫丫丫丫</marquee>
-     <marquee>个个个个个个个个个个个个个个个个个个个个</marquee>>
+     <marquee>个个个个个个个个个个个个个个个个个个个个</marquee>
      <marquee>弘扬    富强    民主     文明     和谐</marquee>
      <marquee>社会    自由    平等     公正     法治</marquee>
      <marquee>主义    爱国    敬业     诚信     友善</marquee>
-     <marquee>核心    丫丫丫丫丫丫丫丫丫丫丫丫丫丫丫丫</marquee
+     <marquee>核心    丫丫丫丫丫丫丫丫丫丫丫丫丫丫丫丫</marquee>
      <marquee>价值观  个个个个个个个个个个个个个个个个</marquee>
      
      <blink>闪耀！！！！</blink>
