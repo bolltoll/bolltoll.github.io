@@ -12,6 +12,11 @@
     
     <div>
     <iframe src="https://www.pku.edu.cn//" name="iframe_a">oo</iframe>
+    
+    </div>
+    
+    <div>
+    
     <iframe src="https://course.pku.edu.cn/" name="iframe_a">oo</iframe>
     </div>
     
