@@ -57,8 +57,10 @@
      <marquee>                                    </marquee>
      <marquee>ヘ(￣ω￣ヘ）ヘ(￣ω￣ヘ)ヘ(￣ω￣ヘ)ヘ(￣ω￣ヘ）</marquee>
      <marquee>啊啊<marquee>啊啊啊</marquee>啊啊</marquee>
+     <hr />
      
-     <kbd>  </Kbd>
+     
+     <kbd>喔喔</Kbd>
      
     
     <div class="rx">
