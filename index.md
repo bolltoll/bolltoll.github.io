@@ -22,11 +22,11 @@
 	     
 	     body
 	     {
-	background-color:#d0e4fe;
+	background-image:src="smc0406_portrait_productview.jpg";
 	}
 	h1
 	{
-	color:orange;
+	color:#363636;
 	text-align:center;
 	}
 	p
