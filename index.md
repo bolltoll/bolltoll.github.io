@@ -22,7 +22,7 @@
 	     
 	     body
 	     {
-	background-image: url(smc0406_portrait_productview.jpg);
+	background-image: url(back.jpg);
 	}
 	h1
 	{
