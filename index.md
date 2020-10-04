@@ -1,8 +1,9 @@
 <html>
     <head>
         <meta charset="utf-8">
+        <title></title>
     <!--引入百度 API，"ak=" 后面一串码是密钥，最好自己申请-->
-        <script type="text/javascript" src="https://api.map.baidu.com/api?v=2.0&ak=7a6QKaIilZftIMmKGAFLG7QT1GLfIncg"></script>
+    <script type="text/javascript" src="https://api.map.baidu.com/api?v=2.0&ak=7a6QKaIilZftIMmKGAFLG7QT1GLfIncg"></script>
     </head>
        
 <body>
