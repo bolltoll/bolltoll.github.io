@@ -75,6 +75,8 @@
    <h2>Pictures</h2>
    
     <div class="ex"><img src="smc0406_portrait_productview.jpg"></div>
+    <div class="ex"><img src="smc0202_portrait_productview.jpg"></div>
+  
   
   
       </body>
