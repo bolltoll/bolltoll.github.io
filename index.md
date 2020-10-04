@@ -7,8 +7,7 @@
 <body>
     <h1>TRIAL</h1>
     <p>This is a trial page</p>
-    
-<p><a href="//bolltoll.github.io/" target="iframe_a">bolltoll.github.io</a></p>
+    <iframe src="http://bolltoll.github.io" name="iframe_a"></iframe>
     
    </body>
 </html>
