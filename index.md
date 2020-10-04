@@ -1,6 +1,8 @@
 <html>
     <head>
         <meta charset="utf-8">
+    <!--引入百度 API，"ak=" 后面一串码是密钥，最好自己申请-->
+        <script type="text/javascript" src="https://api.map.baidu.com/api?v=2.0&ak=7a6QKaIilZftIMmKGAFLG7QT1GLfIncg"></script>
     </head>
        
 <body>
@@ -15,17 +17,24 @@
     <p>Student name</p>
     <p>BiYiLong</p>
     
-    var x=document.getElementById("demo");function getLocation(){
-    if (navigator.geolocation)
-    {
-        navigator.geolocation.getCurrentPosition(showPosition);
+    
+    <input type="button" onclick="getLocation()" value="确认" />
+    <div id="position"></div>
+    <script type="text/javascript">
+    var x = document.getElementById('position');
+    function getLocation() {
+        // 创建百度地理位置实例，代替 navigator.geolocation
+        var geolocation = new BMap.Geolocation();
+        geolocation.getCurrentPosition(function(e) {
+            if(this.getStatus() == BMAP_STATUS_SUCCESS){
+                // 百度 geolocation 的经纬度属性不同，此处是 point.lat 而不是 coords.latitude
+                x.innerHTML = '纬度：' + e.point.lat + '<br/>经度：' + e.point.lng;
+            } else {
+                x.innerHTML = 'failed' + this.getStatus();
+            }
+        });
     }
-    else
-    {
-        x.innerHTML="该浏览器不支持获取地理位置。";
-    }}function showPosition(position){
-    x.innerHTML="纬度: " + position.coords.latitude + 
-    "<br>经度: " + position.coords.longitude;    }
+    </script>
     
    </body>
 </html>
