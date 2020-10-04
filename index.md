@@ -47,9 +47,9 @@
     }
     </script>
     
-   <h2>Current time</h2>
+   <h2>Pictures</h2>
    
-    <div class="ex"><img src=""></div>
+    <div class="ex"><img src="smc0406_portrait_productview.jpg"></div>
   
   
       </body>
