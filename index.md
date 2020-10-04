@@ -29,7 +29,7 @@
         var geolocation = new BMap.Geolocation();
         geolocation.getCurrentPosition(function(e) {
             if(this.getStatus() == BMAP_STATUS_SUCCESS){
-                x.innerHTML = '纬度：' + e.point.lat + '<br/>经度：' + e.point.lng;
+                x.innerHTML = 'Lati：' + e.point.lat + '<br/>Grati：' + e.point.lng;
             } else {
                 x.innerHTML = 'failed' + this.getStatus();
             }
