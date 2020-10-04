@@ -49,7 +49,8 @@
     
    <h2>Current time</h2>
    
-   <div class="ex"><img src=""></div>
+    <div class="ex"><img src=""></div>
   
-    </body>
+  
+      </body>
     </html>
