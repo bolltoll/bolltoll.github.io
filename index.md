@@ -52,6 +52,7 @@
      <marquee>核心价值观    爱国    敬业     诚信     友善 </marquee>
      <marquee>                                    </marquee>
      <marquee>ヘ(￣ω￣ヘ）ヘ(￣ω￣ヘ)ヘ(￣ω￣ヘ)ヘ(￣ω￣ヘ）</marquee>
+     <marquee>啊啊<marquee>啊啊啊</marquee>啊啊</marquee>
      
      <kbd>  </Kbd>
      
@@ -82,6 +83,8 @@
         });
     }
     </script>
+    
+    <font color="#4E2F2F">LOCATIONAL SCALES</font>
     
    <h2>Pictures</h2>
    
