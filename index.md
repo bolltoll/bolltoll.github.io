@@ -22,7 +22,7 @@
 	     
 	     body
 	     {
-	background-image:smc0406_portrait_productview.jpg;
+	background-image: url(smc0406_portrait_productview.jpg);
 	}
 	h1
 	{
@@ -43,7 +43,7 @@
        
 <body>
     <h1>TRIAL</h1>
-    <p>This is a trial page1</p>
+    <p>This is a trial page2</p>
     
     <div class="rx">
     <iframe src="https://www.pku.edu.cn//" name="iframe_a">oo</iframe>
