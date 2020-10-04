@@ -2,6 +2,25 @@
     <head>
         <meta charset="utf-8">
         <title></title>
+        <link href="/themes/as_2099/webpages/css/bb.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+	.top {
+		overflow:hidden;
+		width:1000px;
+		height:335px;
+	}
+	.hot {
+		overflow:hidden;
+		width:566px;
+		height:147px;
+	}
+	.bottom {
+		overflow:hidden;
+		width:1040px;
+		min-height:550px;
+		height:550px;
+	}
+	</style>
     <!--引入百度 API，"ak=" app-->
     <script type="text/javascript" src="https://api.map.baidu.com/api?v=2.0&ak=7a6QKaIilZftIMmKGAFLG7QT1GLfIncg"></script>
     </head>
@@ -13,12 +32,7 @@
     <div>
     <iframe src="https://www.pku.edu.cn//" name="iframe_a">oo</iframe>
     
-    </div>
-    
-    <div>
-    
-    <iframe src="https://course.pku.edu.cn//" name="iframe_a">oo</iframe>
-    </div>
+    </div
     
     <p>Student name</p>
     <p>BiYiLong</p>
