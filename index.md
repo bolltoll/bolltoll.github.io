@@ -3,25 +3,16 @@
         <meta charset="utf-8">
         <title></title>
 	   
-	     <link href="ioo.css" rel="stylesheet" type="text/css" />
-	<style type="text/css">
-	.top {
-		overflow:hidden;
-		width:1000px;
-		height:335px;
-	}
-	.hot {
-		overflow:hidden;
-		width:566px;
-		height:147px;
-	}
-	.bottom {
-		overflow:hidden;
-		width:1040px;
-		min-height:550px;
-		height:550px;
-	}
-	</style>
+	     <style>
+	     div.ex
+	     {
+	     width:220px;
+	     padding:10px;
+	     border:5px solid gray;
+	     margin:0px;
+	     }
+	     </style>
+	
     <!--引入百度 API，"ak=" app-->
     <script type="text/javascript" src="https://api.map.baidu.com/api?v=2.0&ak=7a6QKaIilZftIMmKGAFLG7QT1GLfIncg"></script>
     </head>
@@ -57,6 +48,8 @@
     </script>
     
    <h2>Current time</h2>
+   
+   <div class="ex"><img src=""></div>
   
     </body>
     </html>
