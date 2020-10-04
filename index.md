@@ -19,6 +19,22 @@
 	     border:5px solid gray;
 	     margin:0px;
 	     }
+	     
+	     body
+	     {
+	background-color:#d0e4fe;
+	}
+	h1
+	{
+	color:orange;
+	text-align:center;
+	}
+	p
+	{
+	font-family:"Times New Roman";
+	font-size:20px;
+	}
+
 	     </style>
 	
     <!--引入百度 API，"ak=" app-->
