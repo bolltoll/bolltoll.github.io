@@ -43,7 +43,7 @@
        
 <body>
     <h1>TRIAL</h1>
-    <p>This is a trial page</p>
+    <p>This is a trial page1</p>
     
     <div class="rx">
     <iframe src="https://www.pku.edu.cn//" name="iframe_a">oo</iframe>
