@@ -15,9 +15,7 @@
     <p>Student name</p>
     <p>BiYiLong</p>
     
-    var x=document.getElementById("demo");
-function getLocation()
-{
+    var x=document.getElementById("demo");function getLocation(){
     if (navigator.geolocation)
     {
         navigator.geolocation.getCurrentPosition(showPosition);
@@ -25,14 +23,9 @@ function getLocation()
     else
     {
         x.innerHTML="该浏览器不支持获取地理位置。";
-    }
-}
- 
-function showPosition(position)
-{
+    }}function showPosition(position){
     x.innerHTML="纬度: " + position.coords.latitude + 
-    "<br>经度: " + position.coords.longitude;    
-}
+    "<br>经度: " + position.coords.longitude;    }
     
    </body>
 </html>
