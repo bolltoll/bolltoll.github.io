@@ -76,6 +76,17 @@
    
     <div class="ex"><img src="smc0406_portrait_productview.jpg"></div>
     <div class="ex"><img src="smc0202_portrait_productview.jpg"></div>
+    <div class="ex"><img src="smc0200_portrait_productview.jpg"></div>
+    
+    <p>
+    今朝好风日。
+    园苑足芳菲。
+    竹动蝉争散。
+    莲摇鱼暂飞。
+    面红新着酒。
+    风晚细吹衣。
+    跂石多时望。
+    莲船始复归。</p>
   
   
   
