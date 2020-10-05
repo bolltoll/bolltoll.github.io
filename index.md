@@ -58,12 +58,7 @@
      <marquee>ヘ(￣ω￣ヘ）ヘ(￣ω￣ヘ)ヘ(￣ω￣ヘ)ヘ(￣ω￣ヘ）</marquee>
      <marquee>啊啊<marquee>啊啊啊</marquee>啊啊</marquee>
      <hr />
-     
-     <form action="demo-form.php" method="get">
-     please choose
-     <button name="subject" type="submit" value="鱼鱼">HTML</button>
-     <button name="subject" type="submit" value="蠢蠢">CSS</button>
-     </form>
+    
      
      
      <kbd>喔喔</Kbd>
@@ -121,44 +116,8 @@
     
     
   
-		<a href="http://aola.100bt.com/gwActivity/20141031/?cebian" target="_blank"" class="aolasidebar__ad2"><img src="http://img4.a0bi.com/upload/articleResource/20170323/1490273250027.png" title="奥拉星官方微信"></a>
-	</div>
-		<script type="text/javascript" src="http://www.100bt.com/resource/js/util/newcommon/util.js"></script>
-	<script type="text/javascript" src="http://www.100bt.com/resource/js/util/newcommon/login.js"></script>
-	<script src="http://resource.a0bi.com/resource/js/util/newcommon/common.js?v=20161128"></script>
-	<script src="http://resource.a0bi.com/aola/dev/script/common.js?170119"></script>
-	<!--[if lte IE 6]>
-	<script type="text/javascript">
-		In.add("DDPng", {
-			path:"http://www.100bt.com/resource/zl/script/DD_belatedPNG.js",
-			type:"js"
-		});
-		$(function(){
-			In("DDPng", function(){
-				DD_belatedPNG.fix(".fixpng,.navLink a,.box_t .tt,.promoteBoss img");
-			});
-		});
-	</script>
-	<![endif]-->
-	<script type="text/javascript">
-		if(isFromAppState){
-			$("#baseNav").before('<div class="computerTipWrap"><a href="http://m.100bt.com/aola/" class="thid" id="computerTips">切换到手机版</a></div>');
-		}
-	</script>
-
-	<script src="http://resource.a0bi.com/aola/dev/script/index.js?v=4"></script>
-	<script src="http://resource.a0bi.com/resource/image/commonad/commonad.js?v=2.0"></script>
-	<script type="text/javascript">
-		if (addAddGameBtn && addAddGameBtn.initAddGame && typeof addAddGameBtn.initAddGame == 'function') {
-			/*初始化按钮*/
-			addAddGameBtn.initAddGame();
-		}
-	</script>
-		<script type="text/javascript" src="http://www.100bt.com/resource/js/lib/bdStatistic.js"></script>
-	<script type="text/javascript" src="http://dc.100bt.com/js/dc.js"></script>
-
-</body>
-</html>
+	<img src="http://img4.a0bi.com/upload/articleResource/20170323/1490273250027.png" title="奥拉星官方微信"></a>
+	
 
   
   </body>
