@@ -116,7 +116,9 @@
     
     
   
-	<img src="http://img4.a0bi.com/upload/articleResource/20170323/1490273250027.png" title="奥拉星官方微信"></a>
+	<marquee>
+	<img src="http://img4.a0bi.com/upload/articleResource/20170323/1490273250027.png" title="奥拉星官方微信">
+	</marquee>
 	
 
   
