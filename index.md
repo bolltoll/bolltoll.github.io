@@ -65,7 +65,7 @@
      
     
     <div class="rx">
-    <iframe src="https://www.pku.edu.cn//" name="iframe_a">oo</iframe>
+    <iframe src="https://www.pku.edu.cn//" name="iframe_a"  width=600px height=400px>oo</iframe>
     </div>
     
    
