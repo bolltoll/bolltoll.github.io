@@ -1,126 +1,40 @@
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title></title>
-	   
-	     <style>
-	     div.ex
-	     {
-	     width:220px;
-	     padding:10px;
-	     border:5px solid gray;
-	     margin:0px;
-	     }
-	     
-	      div.rx
-	     {
-	     width:610px;
-	     padding:10px;
-	     border:5px solid gray;
-	     margin:0px;
-	     }
-	     
-	     body
-	     {
-	background-image: url(back.jpg);
-	}
-	h1
-	{
-	color:#363636;
-	text-align:center;
-	}
-	p
-	{
-	font-family:"Times New Roman";
-	font-size:20px;
-	}
-
-	     </style>
-	
-    <!--引入百度 API，"ak=" app-->
-    <script type="text/javascript" src="https://api.map.baidu.com/api?v=2.0&ak=7a6QKaIilZftIMmKGAFLG7QT1GLfIncg"></script>
-    </head>
-       
-<body>
-    <h1>TRIAL</h1>
-    <center>This is a trial page</center>
-	
-     <marquee>ヘ(￣ω￣ヘ）ヘ(￣ω￣ヘ)ヘ(￣ω￣ヘ)ヘ(￣ω￣ヘ）</marquee>
-     <marquee>                                     </marquee>
-     <marquee>弘扬      富强    民主     文明     和谐    </marquee>
-      <marquee><marquee><marquee>哇，光头</marquee></marquee></marquee>
-     
-     <marquee>社会主义    自由    平等     公正     法治   </marquee>
-      <marquee>w(ﾟДﾟ)w<marquee>社会主义核心价值观</marquee>啊啊啊吖</marquee>
-     
-     <marquee>核心价值观    爱国    敬业     诚信     友善 </marquee>
-     <marquee>                                    </marquee>
-     <marquee>ヘ(￣ω￣ヘ）ヘ(￣ω￣ヘ)ヘ(￣ω￣ヘ)ヘ(￣ω￣ヘ）</marquee>
-     <marquee>啊啊<marquee>啊啊啊</marquee>啊啊</marquee>
-     <hr />
-    
-     
-     
-     <kbd>喔喔</Kbd>
-     
-    
-    <div class="rx">
-    <iframe src="https://www.pku.edu.cn//" name="iframe_a"  width=600px height=400px>oo</iframe>
-    </div>
-    
-   
-    <p>Student name
-    BiYiLong</p>
-    
-  <h2>Current Location</h2>
-    
-    
-    <input type="button" onclick="getLocation()" value="确认" />
-    <div id="position"></div>
-    <script type="text/javascript">
-    var x = document.getElementById('position');
-    function getLocation() {
-        var geolocation = new BMap.Geolocation();
-        geolocation.getCurrentPosition(function(e) {
-            if(this.getStatus() == BMAP_STATUS_SUCCESS){
-                x.innerHTML = 'Lati：' + e.point.lat + '<br/>Grati：' + e.point.lng;
-            } else {
-                x.innerHTML = 'failed' + this.getStatus();
-            }
-        });
-    }
-    </script>
-    
-    <font color="#4E2F2F">👆点击测位置<br>
-    LOCATIONAL SCALES</font>
-    
-   <h2>Pictures</h2>
-   
-     <span>
-    <img src="smc0406_portrait_productview.jpg">
-    <img src="smc0200_portrait_productview.jpg">
-    <img src="smc0201_portrait_productview.jpg">
-     </span>
-    
-    <marquee>
-    今朝好风日。
-    园苑足芳菲。
-    竹动蝉争散。
-    莲摇鱼暂飞。
-    面红新着酒。
-    风晚细吹衣。
-    跂石多时望。
-    莲船始复归。</marquee>
-  
-    <b>啊啊啊啊啊啊啊啊啊啊啊</b>
-    
-    
-  
-	<marquee>
-	<img src="http://img4.a0bi.com/upload/articleResource/20170323/1490273250027.png" title="奥拉星官方微信">
-	</marquee>
-	
-
-  
-  </body>
-  </html>
+<!--[if lt IE 7]><html lang="en" class="spitfireaudio-template-normal no-js lt-ie9 lt-ie8 lt-ie7">
+<![endif]--><!--[if IE 7]><html lang="en" class="spitfireaudio-template-normal no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if IE 8]><html lang="en" class="spitfireaudio-template-normal no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--><html lang="en" class="spitfireaudio-template-normal no-js">
+	<!--<![endif]-->
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<title>Spitfire Audio — Sample Libraries and Virtual Instruments</title>
+		<meta name="description" content="Spitfire Audio is a British music technology company, founded in 2007 by composers Christian Henson and Paul Thomson, producing high quality virtual instruments and sample libraries."/>
+		<meta name="viewport" content="width=device-width"><link rel="icon" href="https://d1t3zg51rvnesz.cloudfront.net/1.247.0/images/spitfireaudio/favicon.ico">
+		<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://d1t3zg51rvnesz.cloudfront.net/1.247.0/images/spitfireaudio/apple-touch-icon-152x152-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://d1t3zg51rvnesz.cloudfront.net/1.247.0/images/spitfireaudio/apple-touch-icon-144x144-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://d1t3zg51rvnesz.cloudfront.net/1.247.0/images/spitfireaudio/apple-touch-icon-120x120-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://d1t3zg51rvnesz.cloudfront.net/1.247.0/images/spitfireaudio/apple-touch-icon-114x114-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://d1t3zg51rvnesz.cloudfront.net/1.247.0/images/spitfireaudio/apple-touch-icon-72x72-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://d1t3zg51rvnesz.cloudfront.net/1.247.0/images/spitfireaudio/apple-touch-icon-57x57-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" href="https://d1t3zg51rvnesz.cloudfront.net/1.247.0/images/spitfireaudio/apple-touch-icon-precomposed.png"><meta name="msapplication-TileImage" content="https://d1t3zg51rvnesz.cloudfront.net/1.247.0/images/spitfireaudio/msapplication-tile-image-144x144.png">
+		<meta name="msapplication-TileColor" content="#FFFFFF"><link href="https://fonts.googleapis.com/css?family=Oxygen+Mono" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+		<link href="https://d1t3zg51rvnesz.cloudfront.net/1.247.0/css/html5/default-min.css" rel="stylesheet">
+		<link href="https://d1t3zg51rvnesz.cloudfront.net/1.247.0/css/spitfireaudio/template-normal-2016-11-23-min.css" rel="stylesheet" type="text/css"/>
+		<link href="https://d1t3zg51rvnesz.cloudfront.net/1.247.0/css/spitfireaudio/layout-designer/layout-designer-min.css" rel="stylesheet" type="text/css"/>
+		<meta name="google-site-verification" content="Sqfa25h0ybsxAMAZAKJGsSTok5GBYVl1PDBBMj8wvIg"/>
+		<link href="https://d1t3zg51rvnesz.cloudfront.net/1.247.0/css/spitfireaudio/cms2/layout/home-v2-min.css" rel="stylesheet" type="text/css"/>
+		<link href="https://d1t3zg51rvnesz.cloudfront.net/1.247.0/css/spitfireaudio/cms2/layout/element/home-v2-item-min.css" rel="stylesheet" type="text/css"/>
+		<link href="https://d1t3zg51rvnesz.cloudfront.net/1.247.0/css/spitfireaudio/cms2/template/element/mega-menu-min.css" rel="stylesheet" type="text/css"/>
+		<link href="https://d1t3zg51rvnesz.cloudfront.net/1.247.0/css/spitfireaudio/popup-min.css" rel="stylesheet" type="text/css"/>
+		<link href="https://d1t3zg51rvnesz.cloudfront.net/1.247.0/css/spitfireaudio/search/popup-search-min.css" rel="stylesheet" type="text/css"/>
+		<link href="https://d1t3zg51rvnesz.cloudfront.net/1.247.0/css/spitfireaudio/cart/popup-cart-min.css" rel="stylesheet" type="text/css"/>
+		<link href="https://d1t3zg51rvnesz.cloudfront.net/1.247.0/css/spitfireaudio/cart/checkout-button-min.css" rel="stylesheet" type="text/css"/>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.2/require.min.js"></script>
+		
+<!-- Google Tag Manager -->
+                 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WWMRMS4');</script><!-- End Google Tag Manager -->
+<script src="https://use.typekit.net/pmd5iue.js"></script><script>try{Typekit.load({ async: true });}catch(e){}</script><!-- Start of spitfireaudio Zendesk Widget script -->
+			<script>/*<![CDATA[*/window.zEmbed||function(e,n){var t,o,d,s,i,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),s=r.contentWindow,i=s.document;try{o=i}catch(e){t=document.domain,r.src='javascript:var d=document.open();d.domain="'+t+'";void(0);',o=i}o.open()._l=function(){var e=this.createElement("script");t&&(this.domain=t),e.id="js-iframe-async",e.src="https://assets.zendesk.com/embeddable_framework/main.js",this.t=+new Date,this.zendeskHost="spitfireaudio.zendesk.com",this.zEQueue=a,this.body.appendChild(e)},o.write('<body onload="document._l();">'),o.close()}("https://assets.zendesk.com/embeddable_framework/main.js","spitfireaudio.zendesk.com");/*]]>*/</script>
+			<!-- End of spitfireaudio Zendesk Widget script --><script type="text/javascript">var _gaq = _gaq || [];_gaq.push(['_setAccount','UA-31326708-1']);_gaq.push(['_trackPageLoadTime']);_gaq.push(['_trackPageview']);(function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = 'https://stats.g.doubleclick.net/dc.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();</script><!-- Global site tag (gtag.js) - AdWords: 860901976 --><script async src="https://www.googletagmanager.com/gtag/js?id=AW-860901976"></script><script>window.dataLayer = window.dataLayer || []; function gtag()
+{dataLayer.push(arguments);}
+gtag('js', new Date()); gtag('config', 'AW-860901976');</script><script type="text/javascript">!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init','255787824625368');fbq('track','PageView');</script><noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=255787824625368&ev=PageView&noscript=1"/></noscript><script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async></script></head><body class="spitfire-body--takeover-background"><!-- Google Tag Manager (noscript) --><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WWMRMS4"height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- End Google Tag Manager (noscript) --><span id="top-of-page"></span><div class="spitfire-top-banner" style="background:#F07222"><a href="https://www.spitfireaudio.com/shop/a-z/henrietta-smith-rolla-spectrum/"><div><p style="color: #ffffff"><span class="desktop-content">NEW: HENRIETTA SMITH ROLLA - SPECTRUM £29 $29 29€ — OUT NOW</span><span class="mobile-content">NEW: HENRIETTA SMITH ROLLA - SPECTRUM £29 $29 29€ — OUT NOW</span></p></div></a></div><div class="page spitfire-page--takeover-background"><header><div class="header__contained grid--full"><div class="toggle-menu lap--hide desk--hide"><span></span></div><p class="greeting palm--hide lap--hide" id="trigger-my-account-popup"><a href="https://www.spitfireaudio.com/my-account/"><span class="icon"></span><span class="text">Gs</span></a></p><nav class="shortcuts"><ul><li class="my-account"><a class="palm--hide desk--hide" id="trigger-my-account-popup" href="https://www.spitfireaudio.com/my-account/" title="Your Spitfire Account">My Account</a><a class="lap--hide desk--hide" href="https://www.spitfireaudio.com/my-account/" title="Your Spitfire Account">My Account</a></li><li class="search"><a class="palm--hide" id="trigger-search-popup" href="https://www.spitfireaudio.com/search/" title="Search Spitfire">Search</a><a class="lap--hide desk--hide" href="https://www.spitfireaudio.com/search/" title="Search Spitfire">Search</a></li><li class="wishlist"><a class="palm--hide" id="trigger-wish-list-popup" href="https://www.spitfireaudio.com/my-account/wish-list/" title="Your Spitfire Wish List">Wish List</a><a class="lap--hide desk--hide" href="https://www.spitfireaudio.com/my-account/wish-list/" title="Your Spitfire Wish List">Wish List</a></li><li class="cart"><a id="trigger-cart-popup" class="palm--hide" href="https://www.spitfireaudio.com/cart/view/" title="Shopping Cart"><span class="cart-item-count"></span></a><a class="lap--hide desk--hide" href="https://www.spitfireaudio.com/cart/view/" title="Shopping Cart"><span class="cart-item-count"></span></a></li></ul></nav><div class="logo"><a href="https://www.spitfireaudio.com/" class="home_link" title="Spitfire Audio homepage">Spitfire Audio - Superior Sampling Since 2007</a></div></div><nav class="main"><ul class="nav"><li class=""><a href="https://www.spitfireaudio.com/shop/" title="Browse the Spitfire Audio catalogue">Products</a></li><li class=""><a href="http://labs.spitfireaudio.com/" title="LABS">LABS</a></li><li class=""><a href="https://composer.spitfireaudio.com" target="_blank" title="Composer Magazine">Composer Magazine</a></li><li class=""><a href="https://www.spitfireaudio.com/about/" title="About">About</a></li><li class=""><a href="https://spitfireaudio.zendesk.com/hc/en-us" title="Help">Help</a></li></ul></nav></header><section class="spitfireaudio-layout-home"><div class="home-v2-item"><div class="home-v2-upper-container home-v2-upper-container--double-height"><a href="https://www.spitfireaudio.com/shop/a-z/henrietta-smith-rolla-spectrum/"><div class="home-v2-hero" style="background-image:url(https://d1t3zg51rvnesz.cloudfront.net/p/images/cms2/1061/homepage-banner-double-height.jpg);"></div><div class="home-v2-mask" style="background-color:#F07222"></div><div class="home-v2-copy"><h2>HENRIETTA SMITH-ROLLA — SPECTRUM</h2><h3>SYNTH-LADEN SOUND DESIGN TEXTURES</h3><p>OUT NOW — £29 / $29 / 29€</p></div></a></div><div class="home-v2-lower-container"><div class="home-v2-copy"><h2>About Us</h2><h3>We Make Sounds for Film Composers</h3><p><a href="https://www.spitfireaudio.com/about/">Learn More</a></p></div></div></div><div class="home-v2-item"><div class="home-v2-upper-container home-v2-upper-container--normal-height"><a href="https://www.spitfireaudio.com/shop/a-z/edna-earth/"><div class="home-v2-hero" style="background-image:url(https://d1t3zg51rvnesz.cloudfront.net/p/images/cms2/1057/1920_homepage.jpg);"></div><div class="home-v2-mask" style="background-color:#111C03"></div><div class="home-v2-copy"><h2>EDNA EARTH</h2><h3>Save 30% Throughout OCTOBER</h3><p>buy now</p></div></a></div><div class="home-v2-lower-container"><div class="home-v2-copy"><h2>Educational Discount</h2><h3>Save 30%</h3><p><a href="https://www.spitfireaudio.com/my-account/educational-discount-request/">Apply Now</a></p></div></div></div><div class="home-v2-item"><div class="home-v2-upper-container home-v2-upper-container--normal-height"><a href="https://www.spitfireaudio.com/originals/#intimate-strings/"><div class="home-v2-hero" style="background-image:url(https://d1t3zg51rvnesz.cloudfront.net/p/images/cms2/1055/smc0416_homepage.jpg);"></div><div class="home-v2-mask" style="background-color:#8BBEA6"></div><div class="home-v2-copy"><h2>ORIGINALS INTIMATE STRINGS</h2><h3>ESSENTIAL CINEMATIC INGREDIENTS</h3><p>OUT NOW — £29 / $29 / 29€</p></div></a></div><div class="home-v2-lower-container"><div class="home-v2-copy home-v2-newsletter"><h2>Join Our Newsletter</h2><div id="recaptcha-badge"></div><form action="https://www.spitfireaudio.com/newsletter/join/process/" method="post"><table class="form"><tr><td class="label"><label for="email_address1">Email Address</label>:</td><td class="input"><input id="email_address1" name="email_address" placeholder="Email Address" size="50" type="text"/></td></tr><tr><td class="input" colspan="2"><input class="submit-button" id="subscribe_button2" name="subscribe_button" type="submit" value="Join"/></td></tr></table><input id="recaptcha_response0" name="recaptcha_response" type="hidden"/></form></div></div></div><div class="home-v2-item"><div class="home-v2-upper-container home-v2-upper-container--normal-height"><a href="https://www.spitfireaudio.com/labs/"><div class="home-v2-hero" style="background-image:url(https://d1t3zg51rvnesz.cloudfront.net/p/images/cms2/1059/tp_homepage-b1d5b1.jpg);"></div><div class="home-v2-mask" style="background-color:#b1d5b1"></div><div class="home-v2-copy"><h2>LABS TEXTURAL PADS</h2><h3>FREE SOFTWARE INSTRUMENTS</h3><p>DOWNLOAD NOW</p></div></a></div><div class="home-v2-lower-container"><div class="home-v2-copy"><h2>Spitfire Audio App</h2><h3>Our product library manager</h3><p><a href="https://www.spitfireaudio.com/info/library-manager/">Learn More</a></p></div></div></div><div class="home-v2-item"><div class="home-v2-upper-container home-v2-upper-container--normal-height"><a href="https://www.spitfireaudio.com/community/"><div class="home-v2-hero" style="background-image:url(https://d1t3zg51rvnesz.cloudfront.net/p/images/cms2/937/homepage_skinnypelembe.jpg);"></div><div class="home-v2-mask" style="background-color:#000000"></div><div class="home-v2-copy"><h2>Skinny Pelembe</h2><h3>Composer Magazine</h3><p>Read Now</p></div></a></div></div></section><div class="sa-mm"><div class="sa-mm__wrapper"><nav class="sa-mm__nav"><ul class="sa-mm__menu-ul"><li class="sa-mm__menu-li sa-mm__menu-li--heading"><a href="https://www.spitfireaudio.com/shop/instruments/" class="sa-mm__menu-heading-link">Instruments</a></li><li class="sa-mm__menu-li"><a href="https://www.spitfireaudio.com/shop/instruments/strings/" class="sa-mm__menu-link">Strings</a></li><li class="sa-mm__menu-li"><a href="https://www.spitfireaudio.com/shop/instruments/pianos-and-keys/" class="sa-mm__menu-link">Piano &amp; Keys</a></li><li class="sa-mm__menu-li"><a href="https://www.spitfireaudio.com/shop/instruments/brass/" class="sa-mm__menu-link">Brass</a></li><li class="sa-mm__menu-li"><a href="https://www.spitfireaudio.com/shop/instruments/woodwinds/" class="sa-mm__menu-link">Woodwinds</a></li><li class="sa-mm__menu-li"><a href="https://www.spitfireaudio.com/drums-and-percussion/" class="sa-mm__menu-link">Drums &amp; Percussion</a></li><li class="sa-mm__menu-li"><a href="https://www.spitfireaudio.com/shop/instruments/synths/" class="sa-mm__menu-link">Synths</a></li><li class="sa-mm__menu-li"><a href="https://www.spitfireaudio.com/shop/instruments/guitars/" class="sa-mm__menu-link">Guitars</a></li><li class="sa-mm__menu-li"><a href="https://www.spitfireaudio.com/shop/instruments/hybrid/" class="sa-mm__menu-link">Hybrid</a></li><li class="sa-mm__menu-li"><a href="https://www.spitfireaudio.com/shop/a-z/" class="sa-mm__menu-link">All products</a></li></ul><ul class="sa-mm__menu-ul"><li class="sa-mm__menu-li sa-mm__menu-li--heading"><a href="https://www.spitfireaudio.com/shop/instruments/orchestra/" class="sa-mm__menu-heading-link">Orchestras</a></li><li class="sa-mm__menu-li"><a href="https://www.spitfireaudio.com/shop/a-z/albion-one/" class="sa-mm__menu-link">Albion One</a></li><li class="sa-mm__menu-li"><a href="https://www.spitfireaudio.com/bbcso/" class="sa-mm__menu-link">BBC Symphony Orchestra</a></li><li class="sa-mm__menu-li"><a href="https://www.spitfireaudio.com/shop/a-z/spitfire-studio-orchestra/" class="sa-mm__menu-link">Spitfire Studio Orchestra</a></li><li class="sa-mm__menu-li"><a href="https://www.spitfireaudio.com/shop/a-z/spitfire-studio-orchestra-professional/" class="sa-mm__menu-link">Spitfire Studio Orchestra Professional</a></li><li class="sa-mm__menu-li"><a href="https://www.spitfireaudio.com/shop/a-z/spitfire-symphony-orchestra/" class="sa-mm__menu-link">Spitfire Symphony Orchestra</a></li><li class="sa-mm__menu-li"><a href="https://www.spitfireaudio.com/shop/a-z/symphony-complete/" class="sa-mm__menu-link">Symphony Complete</a></li></ul><ul class="sa-mm__menu-ul"><li class="sa-mm__menu-li sa-mm__menu-li--heading"><a href="https://www.spitfireaudio.com/shop/artists/" class="sa-mm__menu-heading-link">Collaborations</a></li><li class="sa-mm__menu-li"><a href="https://www.spitfireaudio.com/shop/artists/hans-zimmer/" class="sa-mm__menu-link">Hans Zimmer</a></li><li class="sa-mm__menu-li"><a href="https://www.spitfireaudio.com/shop/artists/olafur-arnalds" class="sa-mm__menu-link">Ólafur Arnalds</a></li><li class="sa-mm__menu-li"><a href="https://www.spitfireaudio.com/shop/artists/lco/" class="sa-mm__menu-link">London Contemporary Orchestra</a></li><li class="sa-mm__menu-li"><a href="https://www.spitfireaudio.com/shop/a-z/eric-whitacre-choir/" class="sa-mm__menu-link">Eric Whitacre</a></li><li class="sa-mm__menu-li"><a href="https://www.spitfireaudio.com/shop/a-z/hauschka-composer-toolkit/" class="sa-mm__menu-link">HAUSCHKA</a></li><li class="sa-mm__menu-li"><a href="https://www.spitfireaudio.com/shop/a-z/bt-phobos/" class="sa-mm__menu-link">BT</a></li><li class="sa-mm__menu-li"><a href="https://www.spitfireaudio.com/shop/artists/leo-abrahams/" class="sa-mm__menu-link">Leo Abrahams</a></li><li class="sa-mm__menu-li"><a href="https://www.spitfireaudio.com/shop/artists/david-fanshawe/" class="sa-mm__menu-link">David Fanshawe</a></li></ul><ul class="sa-mm__menu-ul"><li class="sa-mm__menu-li sa-mm__menu-li--heading"><a href="https://www.spitfireaudio.com/shop/ranges/collections/" class="sa-mm__menu-heading-link">Collections</a></li><li class="sa-mm__menu-li"><a href="https://www.spitfireaudio.com/filmscoring/" class="sa-mm__menu-link">Scoring Bundles</a></li><li class="sa-mm__menu-li"><a href="https://www.spitfireaudio.com/premium-collections/" class="sa-mm__menu-link">Premium Collections</a></li><li class="sa-mm__menu-li"><a href="https://www.spitfireaudio.com/shop/ranges/collections/" class="sa-mm__menu-link">All Collections</a></li></ul><ul class="sa-mm__menu-ul"><li class="sa-mm__menu-li sa-mm__menu-li--heading"><a href="https://www.spitfireaudio.com/originals" class="sa-mm__menu-heading-link">ORIGINALS £29</a></li><li class="sa-mm__menu-li"><a href="https://www.spitfireaudio.com/originals#intimate-strings" class="sa-mm__menu-link">Intimate Strings</a></li><li class="sa-mm__menu-li"><a href="https://www.spitfireaudio.com/originals#cinematic-soft-piano" class="sa-mm__menu-link">Cinematic Soft Piano</a></li><li class="sa-mm__menu-li"><a href="https://www.spitfireaudio.com/originals#epic-strings" class="sa-mm__menu-link">Epic Strings</a></li><li class="sa-mm__menu-li"><a href="https://www.spitfireaudio.com/originals#epic-brass-amp-woodwinds" class="sa-mm__menu-link">Epic Brass &amp; Woodwinds</a></li><li class="sa-mm__menu-li"><a href="https://www.spitfireaudio.com/originals#felt-piano" class="sa-mm__menu-link">Felt Piano</a></li><li class="sa-mm__menu-li"><a href="https://www.spitfireaudio.com/originals#cinematic-percussion" class="sa-mm__menu-link">Cinematic Percussion</a></li></ul></nav></div></div><footer class="grid--full"><div class="footer-inner"><form class="footer-join" action="https://www.spitfireaudio.com/newsletter/join/process/" method="post"><p class="footer-join-heading">Join our newsletter</p><input type="text" name="email_address" class="footer-join-input-text" placeholder="Enter your email address"><input type="text" name="first_name" class="footer-join-input-txt"><input type="text" name="last_name" class="footer-join-input-txt"><input type="submit" class="footer-join-input-button" value="Join"><input type="hidden" name="recaptcha_response" id="footer-join-recaptcha-reponse"></form><nav><div class="footer-social-and-review"><div class="footer-social-nav"><p class="footer-social-nav-heading">Follow Spitfire</p><ul class="footer-social-nav-grid"><li class=" social-icon social-icon-facebook"><a href="https://www.facebook.com/SpitfireAudio" title="Facebook">Facebook</a></li><li class=" social-icon social-icon-instagram"><a href="https://www.instagram.com/spitfireaudio/" title="Instagram">Instagram</a></li><li class=" social-icon social-icon-twitter"><a href="https://twitter.com/SpitfireAudio" title="Twitter">Twitter</a></li><li class=" social-icon social-icon-youtube"><a href="http://www.youtube.com/user/spitfireaudiollp" title="YouTube">YouTube</a></li></ul></div><div class="footer-trustpilot-nav"><p class="footer-trustpilot-nav-heading"><a class="footer-trustpilot-nav-heading-link" href="https://uk.trustpilot.com/review/spitfireaudio.com">Read customer reviews</a></p><div class="trustpilot-widget" data-businessunit-id="5b360fd39af6b70001dbdd86" data-locale="en-GB" data-style-height="24px" data-style-width="100%" data-template-id="5419b732fbfb950b10de65e5" data-theme="dark"><a href="https://uk.trustpilot.com/review/spitfireaudio.com" target="_blank" rel="noopener">Trustpilot</a></div></div></div><ul class="nav footer-main-nav"><li class=""><a href="https://www.spitfireaudio.com/contact-us/" title="Contact">Contact</a></li><li class=""><a href="https://www.spitfireaudio.com/careers/" title="Careers">Careers</a></li><li class=""><a href="https://www.spitfireaudio.com/info/eula/" title="EULA / Terms">EULA / Terms</a></li><li class=""><a href="https://www.spitfireaudio.com/info/privacy-policy/" title="Privacy Policy">Privacy Policy</a></li><li class=""><a href="https://www.spitfireaudio.com/info/faq/" title="FAQ & Refund Policy">FAQ & Refund Policy</a></li></ul></nav><p class="legal">Spitfire Audio Holdings Ltd - Copyright © MMXX - All Rights Reserved - Registered company 9857384 in England and Wales</p><p>1.247.0</p></div></footer>
