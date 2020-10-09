@@ -1,148 +1,43 @@
+<!DOCTYPE html>
+<html>
 <head>
-	<!-- Begin Jekyll SEO tag v2.6.1 -->
-         <title>bolltoll.github.io | An trial site</title>
-	<meta name="generator" content="Jekyll v3.9.0" />
-        <meta property="og:title" content="bolltoll.github.io" />
-        <meta property="og:locale" content="en_US" />
-        <meta name="description" content="An trial site" />
-        <meta property="og:description" content="An trial site" />
-        <link rel="canonical" href="https://bolltoll.github.io/" />
-        <meta property="og:url" content="https://bolltoll.github.io/" />
-        <meta property="og:site_name" content="bolltoll.github.io" />
-        <script type="application/ld+json">
-{"url":"https://bolltoll.github.io/","@type":"WebSite","headline":"bolltoll.github.io","description":"An trial site","name":"bolltoll.github.io","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
- 
+<meta charset="utf-8"> 
+<title>菜鸟教程(runoob.com)</title> 
+<style>
+h2
+{
+	position:absolute;
+	left:200px;
+	top:0px;
+}
 
-      <html>
-        <meta charset="utf-8" />
-        <title></title>
-	   
-	     <style>
-	     div.ex
-	     {
-	     width:220px;
-	     padding:10px;
-	     border:5px solid gray;
-	     margin:0px;
-	     }
-	     
-	      div.rx
-	     {
-	     width:610px;
-	     padding:10px;
-	     border:5px solid gray;
-	     margin:0px;
-	     }
-	     
-	     body
-	     {
-	background-image: url(back.jpg);
-	}
-	h1
-	{
-	color:#363636;
-	text-align:center;
-	}
-	p
-	{
-	font-family:"Times New Roman";
-	font-size:20px;
-	}
+	</style>
+</head>
 
-	     </style>
+<body>
 	
-    <!--引入百度 API，"ak=" app-->
-    <script type="text/javascript" src="https://api.map.baidu.com/api?v=2.0&amp;ak=7a6QKaIilZftIMmKGAFLG7QT1GLfIncg"></script>
-    </head>
-       
-   <body>
-	    
-	   <h1>TRIAL</h1>
-    <center>This is a trial page</center>
+<h2 style="font-family:verdana;color:#607B8B">BOLLTOLL</h2>
+
 	
-     <marquee>ヘ(￣ω￣ヘ）ヘ(￣ω￣ヘ)ヘ(￣ω￣ヘ)ヘ(￣ω￣ヘ）</marquee>
-     <marquee>                                     </marquee>
-     <marquee>弘扬      富强    民主     文明     和谐    </marquee>
-      <marquee><marquee><marquee>哇，光头</marquee></marquee></marquee>
-     
-     <marquee>社会主义    自由    平等     公正     法治   </marquee>
-      <marquee>w(ﾟДﾟ)w<marquee>社会主义核心价值观</marquee>啊啊啊吖</marquee>
-     
-     <marquee>核心价值观    爱国    敬业     诚信     友善 </marquee>
-     <marquee>                                    </marquee>
-     <marquee>ヘ(￣ω￣ヘ）ヘ(￣ω￣ヘ)ヘ(￣ω￣ヘ)ヘ(￣ω￣ヘ）</marquee>
-     <marquee>啊啊<marquee>啊啊啊</marquee>啊啊</marquee>
-     <hr />
-    
-     
-     
-     <kbd>喔喔</kbd>
-     
-    
-    <div class="rx">
-    <iframe src="https://www.pku.edu.cn//" name="iframe_a" width="600px" height="400px">oo</iframe>
-    </div>
-    
-   
-    <p>Student name
-    BiYiLong</p>
-    
-  <h2>Current Location</h2>
-    
-    
-    <input type="button" onclick="getLocation()" value="确认" />
-    <div id="position"></div>
-    <script type="text/javascript">
-    var x = document.getElementById('position');
-    function getLocation() {
-        var geolocation = new BMap.Geolocation();
-        geolocation.getCurrentPosition(function(e) {
-            if(this.getStatus() == BMAP_STATUS_SUCCESS){
-                x.innerHTML = 'Lati：' + e.point.lat + '<br/>Grati：' + e.point.lng;
-            } else {
-                x.innerHTML = 'failed' + this.getStatus();
-            }
-        });
-    }
-    </script>
-    
-    <font color="#4E2F2F">👆点击测位置<br />
-    LOCATIONAL SCALES</font>
-    
-   <h2>Pictures</h2>
-   
-     <span>
-    <img src="smc0406_portrait_productview.jpg" />
-    <img src="smc0200_portrait_productview.jpg" />
-    <img src="smc0201_portrait_productview.jpg" />
-     </span>
-    
-    <marquee>
-    今朝好风日。
-    园苑足芳菲。
-    竹动蝉争散。
-    莲摇鱼暂飞。
-    面红新着酒。
-    风晚细吹衣。
-    跂石多时望。
-    莲船始复归。</marquee>
-  
-    <b>啊啊啊啊啊啊啊啊啊啊啊</b>
-    
-    
-  
-	<marquee>
-	<img src="http://img4.a0bi.com/upload/articleResource/20170323/1490273250027.png" title="奥拉星官方微信" />
-	</marquee>
+	<div style="opacity:0.5;position:absolute;left:50px;width:300px;height:150px;background-color:#CDC9C9"></div>
+	<div style="opacity:0.4;position:absolute;left:390px;width:100px;height:150px;background-color:#CDC9C9"></div>
+	<div style="opacity:0.33;position:absolute;left:526px;width:60px;height:150px;background-color:#CDC9C9"></div>
 	
+	<div style="font-family:verdana;padding:20px;border-radius:10px;border:10px solid #8B8989;">
+	 <marquee style="color:#838B83;letter-spacing:7px">This is my first trial set.</marquee>
+		<div style="opacity:0.52;position:relative;left:-30px;width:810px;height:62px;background-color:#CDC5BF"></div>
+	 
+	</div><br>
+	
+	 <div style="opacity:0.69;position:absolute;left:0px;width:100px;height:300px;background-color:#E0EEE0"></div>
+	 <div style="opacity:0.69;position:absolute;left:120px;width:100px;height:200px;background-color:#E0EEE0"></div>
+	 <div style="opacity:0.69;position:absolute;left:240px;width:100px;height:100px;background-color:#E0EEE0"></div>
+	 <div style="opacity:0.69;position:absolute;left:360px;width:100px;height:50px;background-color:#E0EEE0"></div>
+	 <div style="opacity:0.69;position:absolute;left:480px;width:100px;height:25px;background-color:#E0EEE0"></div>
+	 <div style="opacity:0.69;position:absolute;left:600px;width:100px;height:12.5px;background-color:#E0EEE0"></div>	
+	<br><br>
+	<p style="text-align:right">jiliguala<p>
 
-  
-  </body>
-  </html>
+</body>
 
-
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
+</html>
