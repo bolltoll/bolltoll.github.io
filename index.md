@@ -1,11 +1,3 @@
-
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
 <!-- Begin Jekyll SEO tag v2.6.1 -->
 <title>bolltoll.github.io | An trial site</title>
 <meta name="generator" content="Jekyll v3.9.0" />
