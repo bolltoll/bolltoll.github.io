@@ -1,14 +1,15 @@
-<!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>bolltoll.github.io | An trial site</title>
-<meta name="generator" content="Jekyll v3.9.0" />
-<meta property="og:title" content="bolltoll.github.io" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="An trial site" />
-<meta property="og:description" content="An trial site" />
-<link rel="canonical" href="https://bolltoll.github.io/" />
-<meta property="og:url" content="https://bolltoll.github.io/" />
-<meta property="og:site_name" content="bolltoll.github.io" />
-<script type="application/ld+json">
+<head>
+	<!-- Begin Jekyll SEO tag v2.6.1 -->
+         <title>bolltoll.github.io | An trial site</title>
+	<meta name="generator" content="Jekyll v3.9.0" />
+        <meta property="og:title" content="bolltoll.github.io" />
+        <meta property="og:locale" content="en_US" />
+        <meta name="description" content="An trial site" />
+        <meta property="og:description" content="An trial site" />
+        <link rel="canonical" href="https://bolltoll.github.io/" />
+        <meta property="og:url" content="https://bolltoll.github.io/" />
+        <meta property="og:site_name" content="bolltoll.github.io" />
+        <script type="application/ld+json">
 {"url":"https://bolltoll.github.io/","@type":"WebSite","headline":"bolltoll.github.io","description":"An trial site","name":"bolltoll.github.io","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
