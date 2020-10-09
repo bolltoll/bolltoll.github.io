@@ -13,16 +13,10 @@
 {"url":"https://bolltoll.github.io/","@type":"WebSite","headline":"bolltoll.github.io","description":"An trial site","name":"bolltoll.github.io","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/assets/css/style.css?v=76dec1bc55c5924b39bb3a24b20cb48b4ffada73">
-  </head>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="https://bolltoll.github.io/">bolltoll.github.io</a></h1>
-      
+ </head>
+ 
 
       <html>
-    <head>
         <meta charset="utf-8" />
         <title></title>
 	   
@@ -64,8 +58,9 @@
     <script type="text/javascript" src="https://api.map.baidu.com/api?v=2.0&amp;ak=7a6QKaIilZftIMmKGAFLG7QT1GLfIncg"></script>
     </head>
        
-<body>
-    <h1>TRIAL</h1>
+   <body>
+	    
+	   <h1>TRIAL</h1>
     <center>This is a trial page</center>
 	
      <marquee>ヘ(￣ω￣ヘ）ヘ(￣ω￣ヘ)ヘ(￣ω￣ヘ)ヘ(￣ω￣ヘ）</marquee>
