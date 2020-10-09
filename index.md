@@ -12,8 +12,6 @@
         <script type="application/ld+json">
 {"url":"https://bolltoll.github.io/","@type":"WebSite","headline":"bolltoll.github.io","description":"An trial site","name":"bolltoll.github.io","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
-
- </head>
  
 
       <html>
