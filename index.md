@@ -15,7 +15,6 @@ h2
 	<body>
 		<p style="text-align:right;color:#838B83"> Bonjour </p>
 	
-	<br>
 		
 		<h3 style="font-family:verdana;color:#607B8B">BOLLTOLL</h3>
 	<div style="opacity:0.5;position:absolute;left:0px;width:300px;height:150px;background-color:#CDC9C9"></div>
@@ -26,13 +25,14 @@ h2
 	 <marquee style="color:#838B83;letter-spacing:7px">This is my first trial set.</marquee>
 		<div style="opacity:0.52;position:relative;left:-30px;width:810px;height:62px;background-color:#CDC5BF"></div>
 	 
-	</div></hr><br>
+	</div><hr><br>
 	
 	 <div style="opacity:0.69;position:absolute;left:0px;width:100px;height:300px;background-color:#E0EEEE"></div>
 	 <div style="opacity:0.69;position:absolute;left:120px;width:100px;height:200px;background-color:#E0EEEE"></div>
 	 <div style="opacity:0.69;position:absolute;left:240px;width:100px;height:100px;background-color:#E0EEEE"></div>
 	 <div style="opacity:0.69;position:absolute;left:360px;width:100px;height:50px;background-color:#E0EEEE"></div>
 	 <div style="opacity:0.69;position:absolute;left:480px;width:100px;height:25px;background-color:#E0EEEE"></div>
-	 <div style="opacity:0.69;position:absolute;left:600px;width:100px;height:12.5px;background-color:#E0EEEE"></div>	
+	 <div style="opacity:0.69;position:absolute;left:600px;width:100px;height:12.5px;background-color:#E0EEEE"></div>
+	 <div style="opacity:0.69;position:absolute;left:720px;width:1000px;height:6px;background-color:#E0EEEE"></div>
 	<br><br>
 	<p style="text-align:right;color:#838B83">jiliguala<p>
