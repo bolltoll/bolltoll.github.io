@@ -35,6 +35,4 @@ h2
 	<br><br>
 	<p style="text-align:right;color:#838B83">jiliguala<p>
 
-    </body>
-    </html>
 
