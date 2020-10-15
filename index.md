@@ -1,8 +1,6 @@
-<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8"> 
-<title>菜鸟教程(runoob.com)</title> 
 <style>
 h2
 {
@@ -38,6 +36,6 @@ h2
 	<br><br>
 	<p style="text-align:right">jiliguala<p>
 
-</body>
+    </body>
+    </html>
 
-</html>
