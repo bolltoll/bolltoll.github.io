@@ -26,7 +26,7 @@ h2
 	 <marquee style="color:#838B83;letter-spacing:7px">This is my first trial set.</marquee>
 		<div style="opacity:0.52;position:relative;left:-30px;width:810px;height:62px;background-color:#CDC5BF"></div>
 	 
-	</div><br>
+	</div></hr><br>
 	
 	 <div style="opacity:0.69;position:absolute;left:0px;width:100px;height:300px;background-color:#E0EEEE"></div>
 	 <div style="opacity:0.69;position:absolute;left:120px;width:100px;height:200px;background-color:#E0EEEE"></div>
