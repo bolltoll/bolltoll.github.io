@@ -1,7 +1,7 @@
 <html>
-<head>
+ <head>
 <meta charset="utf-8"> 
-<style>
+	<style>
 h2
 {
 	position:absolute;
@@ -10,14 +10,11 @@ h2
 }
 
 	</style>
-</head>
+ </head>
 
-<body>
 	<body>
-	<p style="text-align:right;color:#838B83"> Bonjour </p>
-	<br>
-	<br>
-	<br>
+		<p style="text-align:right;color:#838B83"> Bonjour </p>
+	
 	<br>
 		
 		<h3 style="font-family:verdana;color:#607B8B">BOLLTOLL</h3>
