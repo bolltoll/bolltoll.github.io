@@ -13,10 +13,15 @@ h2
 </head>
 
 <body>
-	
-<h2 style="font-family:verdana;color:#607B8B">BOLLTOLL</h2>
-
-        <div style="opacity:0.5;position:absolute;left:0px;width:300px;height:150px;background-color:#CDC9C9"></div>
+	<body>
+	<p style="text-align:right;color:#838B83"> Bonjour </p>
+	<br>
+	<br>
+	<br>
+	<br>
+		
+		<h3 style="font-family:verdana;color:#607B8B">BOLLTOLL</h3>
+	<div style="opacity:0.5;position:absolute;left:0px;width:300px;height:150px;background-color:#CDC9C9"></div>
 	<div style="opacity:0.4;position:absolute;left:340px;width:100px;height:150px;background-color:#CDC9C9"></div>
 	<div style="opacity:0.33;position:absolute;left:476px;width:60px;height:150px;background-color:#CDC9C9"></div>
 	
@@ -34,5 +39,3 @@ h2
 	 <div style="opacity:0.69;position:absolute;left:600px;width:100px;height:12.5px;background-color:#E0EEEE"></div>	
 	<br><br>
 	<p style="text-align:right;color:#838B83">jiliguala<p>
-
-
