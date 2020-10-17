@@ -14,15 +14,15 @@ h2
     padding:35px;
     background: #708090;
 }
-
-#example2 {
+ 
+                #example2 {
     border: 10px dotted black;
     padding:35px;
     background: #708090;
     background-clip: padding-box;
 }
 
-#example3 {
+               #example3 {
     border: 10px dotted black;
     padding:35px;
     background: #708090;
@@ -77,4 +77,6 @@ h2
 	<div id="example3">
 	<h2 style="color:#FFFFFF">Brasses</h2>
 	<p style="color:#FFFFFF">Trumpet<br>Flurgehorn<br>Frenchhorn<br>Tuba<br>Trombone</p></div>
+	
+	<img src="smc0406_portrait_productview.jpg>
 
