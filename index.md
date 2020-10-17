@@ -79,4 +79,7 @@ h2
 	<p style="color:#FFFFFF">Trumpet<br>Flurgehorn<br>Frenchhorn<br>Tuba<br>Trombone</p></div>
 	
 	<img src="smc0406_portrait_productview.jpg">
+	
+	<div style="position:sticky;left:33px;opacity:0.5;width:100px;height:100px;color:#E0E2EE">
+	<p style="align=centre">Frivolous<br>Cake</p>
 
