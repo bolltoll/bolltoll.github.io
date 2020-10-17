@@ -78,5 +78,5 @@ h2
 	<h2 style="color:#FFFFFF">Brasses</h2>
 	<p style="color:#FFFFFF">Trumpet<br>Flurgehorn<br>Frenchhorn<br>Tuba<br>Trombone</p></div>
 	
-	<img src="smc0406_portrait_productview.jpg>
+	<img src="smc0406_portrait_productview.jpg">
 
