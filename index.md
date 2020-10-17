@@ -39,3 +39,20 @@ h2
 	 <div style="opacity:0.69;position:absolute;left:720px;width:1000px;height:6px;background-color:#E0EEEE"></div>
 	<br><br>
 	<p style="text-align:right;color:#838B83">jiliguala<p>
+	
+	
+	<div id="example1">
+	<h2 style="color:#FFFFFF">Strings</h2>
+	<p style="color:#FFFFFF">Violin<br>Viola<br>Cello<br>Bass</p>
+	</div>
+	<p>background-clip: padding-box:</p>
+	<div id="example2">
+ 	<h2 style="color:#FFFFFF">Woodwindsr</h2>
+	<p style="color:#FFFFFF">Piccolo<br>Flute<br>Oboe<br>Englishhorn<br>Clarinet<br>Basson</p>
+	</div>
+	
+	<p>background-clip: content-box:</p>
+	<div id="example3">
+	<h2 style="color:#FFFFFF">Brasses</h2>
+	<p style="color:#FFFFFF">Trumpet<br>Flurgehorn<br>Frenchhorn<br>Tuba<br>Trombone</p></div>
+
