@@ -1,49 +1,15 @@
+
+	
 <html>
  <head>
 <meta charset="utf-8"> 
 	 
-	 <style>
-        #22 {
-            background-color: #BBBBBB;
-           
-            position: fixed;
-            top: 0;
-            z-index: 9999;
-	    position:sticky;
-	    left:33px;
-	    opacity:0.5;
-	    width:100px;
-	    height:100px;
-        }
-    </style>
-    <script type="text/javascript">
-        window.onload = function () {
-            var nav = document.getElementById('nav');
-            window.onscroll = function () {
-                var top = document.body.scrollTop ? document.body.scrollTop : document.documentElement.scrollTop//w3c，各ie的兼容
-                if (top >= 40) {
-                    addClass(nav, 'nav-fixed');
-                } else {
-                    removeClass(nav, 'nav-fixed');
-                }
-            }
-        }
-        function addClass(ele, classname) {
-            var oldClass = ele.className;
-            var pattern = new RegExp('(^|\\s)' + classname + '(\\s|$)');
-            if (!pattern.test(oldClass)) {
-                ele.className += ' ' + classname;
-            }
-        }
-        function removeClass(ele, classname) {
-            var oldClass = ele.className;
-            var pattern = new RegExp('(^|\\s)' + classname + '(\\s|$)');
-            if (pattern.test(oldClass)) {
-                ele.className = ele.className.replace(pattern, ' ');
-            }
-        }
-    </script>
+	 
+	
 	<style>
+		
+		
+		
 h2
 {
 	position:absolute;
@@ -70,6 +36,8 @@ h2
     background: #708090;
     background-clip: content-box;
 }
+		
+		      
 
 		
 		</style>
@@ -119,10 +87,28 @@ h2
 	<div id="example3">
 	<h2 style="color:#FFFFFF">Brasses</h2>
 	<p style="color:#FFFFFF">Trumpet<br>Flurgehorn<br>Frenchhorn<br>Tuba<br>Trombone</p></div>
+	<br>
+		
+		<br>
+	<div id="example3">
+	<h2 style="color:#FFFFFF">Brasses</h2>
+	<img src="smc0406_portrait_productview.jpg"></div>
 	
-	<img src="smc0406_portrait_productview.jpg">
 	
-	<div id="22">
-	<p style="align=centre">Frivolous<br>Cake</p>
-	</div>
-
+	
+		<div style=" 
+				   background:#BBBBBB;
+				   opacity:0.5;
+				   width:100px;
+				   height:100px;
+				   position:fixed;
+				   display:block;
+				   bottom:100px;
+					left:100px;
+				   
+				 
+		
+			 }"align="center ">
+			<p s><br>Frivolous<br>Cake</p>
+			</div>
+			
