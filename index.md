@@ -45,13 +45,14 @@ h2
 	<h2 style="color:#FFFFFF">Strings</h2>
 	<p style="color:#FFFFFF">Violin<br>Viola<br>Cello<br>Bass</p>
 	</div>
-	<p>background-clip: padding-box:</p>
+	
+	<br>
 	<div id="example2">
  	<h2 style="color:#FFFFFF">Woodwindsr</h2>
 	<p style="color:#FFFFFF">Piccolo<br>Flute<br>Oboe<br>Englishhorn<br>Clarinet<br>Basson</p>
 	</div>
 	
-	<p>background-clip: content-box:</p>
+	<br>
 	<div id="example3">
 	<h2 style="color:#FFFFFF">Brasses</h2>
 	<p style="color:#FFFFFF">Trumpet<br>Flurgehorn<br>Frenchhorn<br>Tuba<br>Trombone</p></div>
