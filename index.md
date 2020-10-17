@@ -1,6 +1,48 @@
 <html>
  <head>
 <meta charset="utf-8"> 
+	 
+	 <style>
+        #22 {
+            background-color: #BBBBBB;
+           
+            position: fixed;
+            top: 0;
+            z-index: 9999;
+	    position:sticky;
+	    left:33px;
+	    opacity:0.5;
+	    width:100px;
+	    height:100px;
+        }
+    </style>
+    <script type="text/javascript">
+        window.onload = function () {
+            var nav = document.getElementById('nav');
+            window.onscroll = function () {
+                var top = document.body.scrollTop ? document.body.scrollTop : document.documentElement.scrollTop//w3c，各ie的兼容
+                if (top >= 40) {
+                    addClass(nav, 'nav-fixed');
+                } else {
+                    removeClass(nav, 'nav-fixed');
+                }
+            }
+        }
+        function addClass(ele, classname) {
+            var oldClass = ele.className;
+            var pattern = new RegExp('(^|\\s)' + classname + '(\\s|$)');
+            if (!pattern.test(oldClass)) {
+                ele.className += ' ' + classname;
+            }
+        }
+        function removeClass(ele, classname) {
+            var oldClass = ele.className;
+            var pattern = new RegExp('(^|\\s)' + classname + '(\\s|$)');
+            if (pattern.test(oldClass)) {
+                ele.className = ele.className.replace(pattern, ' ');
+            }
+        }
+    </script>
 	<style>
 h2
 {
@@ -80,6 +122,7 @@ h2
 	
 	<img src="smc0406_portrait_productview.jpg">
 	
-	<div style="position:sticky;left:33px;opacity:0.5;width:100px;height:100px;color:#E0E2EE">
+	<div id="22">
 	<p style="align=centre">Frivolous<br>Cake</p>
+	</div>
 
