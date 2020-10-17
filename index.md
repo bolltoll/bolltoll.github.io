@@ -96,19 +96,7 @@ h2
 	
 	
 	
-		<div style=" 
-				   background:#BBBBBB;
-				   opacity:0.5;
-				   width:100px;
-				   height:100px;
-				   position:fixed;
-				   display:block;
-				   bottom:100px;
-					left:100px;
-				   
-				 
-		
-			 }"align="center ">
+		<div style=" background:#BBBBBB;opacity:0.5;width:100px;height:100px;position:fixed;display:block;bottom:100px;left:100px" align="center ">
 			<p s><br>Frivolous<br>Cake</p>
 			</div>
 			
