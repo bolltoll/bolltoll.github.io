@@ -9,8 +9,29 @@ h2
 	top:0px;
 }
 		
+		#example1 {
+    border: 10px dotted black;
+    padding:35px;
+    background: #708090;
+}
+
+#example2 {
+    border: 10px dotted black;
+    padding:35px;
+    background: #708090;
+    background-clip: padding-box;
+}
+
+#example3 {
+    border: 10px dotted black;
+    padding:35px;
+    background: #708090;
+    background-clip: content-box;
+}
+
+		
 		</style>
-		<link href="https://github.com/bolltoll/bolltoll.github.io/blob/master/ioo.css" rel="stylesheet"/>
+		
 
 	
  </head>
@@ -39,7 +60,7 @@ h2
 	 <div style="opacity:0.69;position:absolute;left:720px;width:1000px;height:6px;background-color:#E0EEEE"></div>
 	<br><br>
 	<p style="text-align:right;color:#838B83">jiliguala<p>
-	
+	<br><br><br><br>
 	
 	<div id="example1">
 	<h2 style="color:#FFFFFF">Strings</h2>
