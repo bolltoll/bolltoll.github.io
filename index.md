@@ -92,7 +92,11 @@ h2
 		<br>
 	<div id="example3">
 	<h2 style="color:#FFFFFF">Brasses</h2>
-	<img src="smc0406_portrait_productview.jpg"></div>
+	<span>
+	<img src="smc0406_portrait_productview.jpg">
+	<iframe src="https://hanyu.baidu.com/zici/s?wd=%E6%84%9A%E8%A0%A2&query=%E6%84%9A%E8%A0%A2&srcid=28232&from=kg0" style="height:300px;width:500px"></iframe>
+	</span>
+	</div>
 	
 	
 	
